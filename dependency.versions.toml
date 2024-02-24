@@ -19,7 +19,7 @@ record-builder = "35"
 sonar-scanner-plugin = "4.4.1.3373"
 spring-boot = "2.0.0"
 testcontainers = "1.19.6"
-version-catalog-update-plugin = "0.8.0"
+version-catalog-update-plugin = "0.8.4"
 
 [libraries]
 awaitility = { module = "org.awaitility:awaitility", version.ref = "awaitility" }
