@@ -17,7 +17,7 @@ protobuf-plugin = "0.9.0"
 quarkus = "3.6.0"
 record-builder = "35"
 sonar-scanner-plugin = "4.4.1.3373"
-spring-boot = "2.0.0"
+spring-boot = "2.7.18"
 testcontainers = "1.19.6"
 version-catalog-update-plugin = "0.8.0"
 
