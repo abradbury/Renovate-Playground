@@ -1,7 +1,7 @@
 [versions]
 awaitility = "4.2.0"
 aws-kafka-auth = "2.0.3"
-aws-sdk-bom = "2.24.1"
+aws-sdk-bom = "2.25.18"
 azure-sdk-bom = "1.2.20"
 dependency-management-plugin = "1.1.4"
 gradle-versions-plugin = "0.51.0"
